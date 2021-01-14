@@ -1,3 +1,3 @@
 # The-summer-rain-game-project
-Game
+Game link:
 https://an-japan1999.itch.io/summer-rain
